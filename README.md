@@ -11,7 +11,7 @@ Xcode should be installed on your system.
 1. Install and setup aces-ios project to the next directory
 
 ````
-https://github.com/aceseverything/aces-ios
+https://github.com/aces/aces-ios
 ````
 
 2. Setup Appium on your Mac
