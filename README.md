@@ -1,7 +1,6 @@
 # About
 
-
-Here are tests for Aces iOS application.
+This is just sample code and README from project I worked on. 
 
 
 ## Installation
