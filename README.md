@@ -1,6 +1,8 @@
 # About
 
 This is just sample code and README from project I worked on. 
+"common" directory is for common elements initialization both for ios and android projects.
+No android tests, because project was not ready at that time.
 
 
 ## Installation
